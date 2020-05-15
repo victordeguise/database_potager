@@ -1,8 +1,5 @@
 # database_with_dango-simple-history
-Avec mon collègue nous avons créé une base de données dans le but de mettre en pratique django-simple-history (https://django-simple-history.readthedocs.io/) qui crée un historique de toute les modifications/création/supression dans une base de données. Nous nous sommes inspirer du travail de Thibault Latrille (https://github.com/ThibaultLatrille/MonPotager) qui a pu nous éclairer dans nos recherches et nous étions supervisé par Eric Tannier (Directeur de recherche)
-
-
-installer Django 
+installer Django (https://docs.djangoproject.com/fr/1.8/howto/windows/)
 
 >> import Django
 
