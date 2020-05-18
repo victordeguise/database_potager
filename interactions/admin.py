@@ -1,5 +1,5 @@
 from simple_history import register
-from especes.models import Interactions
+from interactions.models import Interactions
 from django.contrib.auth.models import User
 from django.contrib import admin
 from simple_history.admin import SimpleHistoryAdmin
